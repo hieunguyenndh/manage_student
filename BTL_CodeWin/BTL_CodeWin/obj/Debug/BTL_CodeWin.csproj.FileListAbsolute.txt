@@ -1,0 +1,42 @@
+C:\Users\Lenovo\source\repos\BTL_CodeWin\BTL_CodeWin\bin\Debug\BTL_CodeWin.exe.config
+C:\Users\Lenovo\source\repos\BTL_CodeWin\BTL_CodeWin\bin\Debug\BTL_CodeWin.exe
+C:\Users\Lenovo\source\repos\BTL_CodeWin\BTL_CodeWin\bin\Debug\BTL_CodeWin.pdb
+C:\Users\Lenovo\source\repos\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.frmDangNhap.resources
+C:\Users\Lenovo\source\repos\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.frm.frmQLSV.resources
+C:\Users\Lenovo\source\repos\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.exe
+C:\Users\Lenovo\source\repos\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.pdb
+C:\Users\Lenovo\source\repos\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.frm.frmMenu.resources
+C:\Users\Lenovo\Desktop\Code-Win\BTL_CodeWin\BTL_CodeWin\bin\Debug\BTL_CodeWin.exe.config
+C:\Users\Lenovo\Desktop\Code-Win\BTL_CodeWin\BTL_CodeWin\bin\Debug\BTL_CodeWin.exe
+C:\Users\Lenovo\Desktop\Code-Win\BTL_CodeWin\BTL_CodeWin\bin\Debug\BTL_CodeWin.pdb
+C:\Users\Lenovo\Desktop\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.frmDangNhap.resources
+C:\Users\Lenovo\Desktop\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.frm.frmMenu.resources
+C:\Users\Lenovo\Desktop\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.frm.frmQLHS.resources
+C:\Users\Lenovo\Desktop\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.exe
+C:\Users\Lenovo\Desktop\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.pdb
+C:\Users\Lenovo\Desktop\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.frm.FrmLop.resources
+C:\Users\Lenovo\Desktop\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.frm.frmLiLich.resources
+C:\Users\Lenovo\Desktop\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.frm.frmDiem.resources
+D:\File Rac\Code-Win\BTL_CodeWin\BTL_CodeWin\bin\Debug\BTL_CodeWin.exe.config
+D:\File Rac\Code-Win\BTL_CodeWin\BTL_CodeWin\bin\Debug\BTL_CodeWin.exe
+D:\File Rac\Code-Win\BTL_CodeWin\BTL_CodeWin\bin\Debug\BTL_CodeWin.pdb
+D:\File Rac\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.csproj.AssemblyReference.cache
+D:\File Rac\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.frmDangNhap.resources
+D:\File Rac\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.frm.frmDiem.resources
+D:\File Rac\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.frm.frmLiLich.resources
+D:\File Rac\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.frm.FrmLop.resources
+D:\File Rac\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.frm.frmMenu.resources
+D:\File Rac\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.frm.frmQLHS.resources
+D:\File Rac\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.Properties.Resources.resources
+D:\File Rac\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.csproj.GenerateResource.cache
+D:\File Rac\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.csproj.CoreCompileInputs.cache
+D:\File Rac\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.exe
+D:\File Rac\Code-Win\BTL_CodeWin\BTL_CodeWin\obj\Debug\BTL_CodeWin.pdb
